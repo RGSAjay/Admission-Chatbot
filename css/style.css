@@ -1,0 +1,126 @@
+.home{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.text{
+    position: absolute;
+    top:8px;
+    left:260px;
+    font-size: xx-large;
+}
+.movable{
+    color:lightgoldenrodyellow;
+    font-size: x-large;
+    background-color: black;
+}
+#app {
+    display:none;
+    position:fixed;
+    bottom:0;
+    right:80px;
+    width:380px;
+    height:560px;
+    background:#ffffff;
+    border-radius: 12px;
+}
+header {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background: orange;
+    color:#ffffff;
+    padding:8px 16px;
+    border-radius: 6px; 
+    height: 75px;
+}
+header img {
+    float: left;
+    width: 145px;
+    height: 114px;
+    border-radius:12px;
+}
+header h1,p {
+    position: relative;
+    bottom: 18px;
+    left: 6px;
+}
+#menu {
+    display:flex;
+    flex-direction: row;
+    gap:8px;
+    font-size: small;
+}
+h3,p {
+    margin:0;
+}
+#msgbox {
+    position:fixed;
+    width:380px;
+    bottom:0;
+    right:80px;
+}
+#msgbox input {
+    width:100%;
+    padding:8px 16px;
+    background:#efefef;
+    border:solid;
+    height: 50px;
+}
+#container {
+    position: relative;
+    width:100%;
+    display:block;
+    padding:16px 0;
+    height:calc(500px - 103.6px);
+    overflow-y: auto;
+}
+#time{
+        background-color:white;
+        color: black;
+        width: 60px;
+        padding: 5px;
+        position: absolute;
+        justify-content: center;
+        left:42%;
+}
+#left {
+    display:flex;
+    justify-content: flex-start;
+}
+#right {
+    display:flex;
+    justify-content: flex-end;
+}
+#left .msg {
+    background:#000000;
+    color:#ffffff;
+    border-top-right-radius: 16px;
+    border-bottom-right-radius: 16px;
+}
+#right .msg {
+    background:#4848ff;
+    color:#ffffff;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+}
+.msg {
+    padding:8px 16px;
+    margin:8px 0;
+    font-size: medium;
+}
+#close {
+    cursor:pointer;
+    font-size: large;
+}
+#icon {
+    display:block;
+    position:fixed;
+    bottom:20px;
+    right:180px;
+    height:145px;
+    width: 175px;
+    cursor:pointer;
+    border-radius: 50%;
+}

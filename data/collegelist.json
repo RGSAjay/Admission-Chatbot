@@ -1,0 +1,107 @@
+[
+    {
+        "name":"MICT",
+        "code":"DVR & Dr. HS MIC College Of Technology (MICT)"
+    },
+    {
+        "name":"ALIT",
+        "code":"Andhra Loyola Institute of Engineering and Technology (ALIT)"
+    },
+    {
+        "name":"BECB",
+        "code":"Bapatla Engineering College (BECB)"
+    },
+    {
+        "name":"CECC",
+        "code":"Chirala Engineering College (CECC)"
+    },
+    {
+        "name":"ELRU",
+        "code":"Eluru College of Engineering and Technology (ELRU)"
+    },
+    {
+        "name":"GECG",
+        "code":"Guntur Engineering College (GECG)"
+    },
+    {
+        "name":"JNTK",
+        "code":"JNTK College of Engineering Kakinada (JNTK)"
+    },
+    {
+        "name":"LBCE",
+        "code":"Lakireddy Balireddy College of Engineering (LBCE)"
+    },
+    {
+        "name":"MVRS",
+        "code":"M.V.R College of Engineering and Technology (MVRS)"
+    },
+    {
+        "name":"NRIA",
+        "code":"NRI Institute of Technology (NRIA)"
+    },
+    {
+        "name":"PPSV",
+        "code":"Prasad V Potluri Siddhartha Institute of Technology (PPSV)"
+    },
+    {
+        "name":"RKCE",
+        "code":"RK College of Engineering (RKCE)"
+    },
+    {
+        "name":"SRKI",
+        "code":"SRK Institute of Technology (SRKI)"
+    },
+    {
+        "name":"URCE",
+        "code":"Usha Rama College of Engineering and Technology (URCE)"
+    },
+    {
+        "name":"VITAPU",
+        "code":"VIT-AP University (VITAPU)"
+    },
+    {
+        "name":"VRSE",
+        "code":"VR Siddhartha Engineering College (VRSE)"
+    },
+    {
+        "name":"ASIP",
+        "code":"Amrita Sai Institute of Science and Technology (ASIP)"
+    },
+    {
+        "name":"AUCE",
+        "code":"A U College of Engineering.Visakhapatnam (AUCE)" 
+    },
+    {
+        "name":"DHAN",
+        "code":"Dhanekula Institute Of Engineering Technology (DHAN)"
+    },
+    {
+        "name":"GDLV",
+        "code":"Seshadri Rao Gudlavalleru Engineering College (GDLV)"
+        
+    },
+    {
+        "name":"JNTA",
+        "code":"JNTUA College of Engineering.Anantapuramu (JNTA)"
+    },
+    {
+        "name":"NITN",
+        "code":"Narsaraopet Institute of Technology (NITN)"
+    },
+    {
+        "name":"PSCV",
+        "code":"Potti Sriramulu College of Engineering and Technology (PSCV) "
+    },
+    {
+        "name":"RAGU",
+        "code":"Raghu Engineering College (RAGU)"
+    },
+    {
+        "name":"RVJC",
+        "code":"R V R And J C College Of Engineering (RVJC)"
+    },
+    {
+        "name":"ANIL",
+        "code":"Anil Neerukonda Institute Of Technology And Sciences (ANIL)"
+    }
+]
